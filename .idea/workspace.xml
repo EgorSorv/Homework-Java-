@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7068b8e7-4d1a-484b-89a5-7617e6c512f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/hw/sem5/hw1/ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/hw/sem5/hw2/ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/hw/sem6/ex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/hw/sem6/model/Filter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/hw/sem6/model/Laptop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,13 +57,13 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/egorv/IdeaProjects/Homework-Java-&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.org.example.hw.sem5.hw2.ex2">
-    <configuration name="ex3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.hw.sem2.ex3" />
+  <component name="RunManager" selected="Application.ex">
+    <configuration name="Filter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.hw.sem6.model.Filter" />
       <module name="Homework-Java-" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.hw.sem2.*" />
+          <option name="PATTERN" value="org.example.hw.sem6.model.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.example.hw.sem4.hw1.ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.hw.sem4.hw1.ex1" />
+    <configuration name="ex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.hw.sem6.ex" />
       <module name="Homework-Java-" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.hw.sem4.hw1.*" />
+          <option name="PATTERN" value="org.example.hw.sem6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ex" />
+        <item itemvalue="Application.Filter" />
         <item itemvalue="Application.org.example.hw.sem5.hw2.ex2" />
         <item itemvalue="Application.org.example.hw.sem5.hw1.ex1" />
         <item itemvalue="Application.org.example.hw.sem4.hw2.ex2" />
-        <item itemvalue="Application.org.example.hw.sem4.hw1.ex1" />
-        <item itemvalue="Application.ex3" />
       </list>
     </recent_temporary>
   </component>
